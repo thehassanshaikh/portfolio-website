@@ -1,0 +1,14 @@
+{
+  "name": "particals-js",
+  "version": "1.0.0",
+  "description": "this is partical js project with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassan Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "particles.js": "^2.0.0"
+  }
+}
